@@ -26,11 +26,14 @@ button{
 
 
 /* TODO: Nav Section start **************************** */
+/* section nav customize */
+
 
 .nav-section{
     margin: auto;
     height: 94px;
     width: 90%;
+
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -674,7 +677,7 @@ button{
 /* Footer Section End */
 
 
-/* Nahian */
+
 
 
 
